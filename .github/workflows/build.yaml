@@ -30,4 +30,4 @@ jobs:
           context: .
           platforms: linux/amd64
           push: true
-          tags: ghcr.io/starcatmeow/es-smartcn:8.5.1
+          tags: ghcr.io/starcatmeow/elasticsearch-ik-docker:8.5.1
